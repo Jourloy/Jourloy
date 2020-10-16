@@ -1,8 +1,8 @@
 
-![Python](https://img.shields.io/badge/Python--blue?style=flat-square&logo=python)
-![JS](https://img.shields.io/badge/JavaScript--yellow?style=for-the-square&logo=javascript)
-![JS](https://img.shields.io/badge/Batchfile--brightgreen?style=for-the-square&logo=windows)
-![JS](https://img.shields.io/badge/shell--brightgreen?style=for-the-square&logo=apple)
+[![Python](https://img.shields.io/badge/Python--blue?style=flat-square&logo=python)](https://github.com/Jourloy)
+[![JS](https://img.shields.io/badge/JavaScript--yellow?style=for-the-square&logo=javascript)](https://github.com/Jourloy)
+[![JS](https://img.shields.io/badge/Batchfile--brightgreen?style=for-the-square&logo=windows)](https://github.com/Jourloy)
+[![JS](https://img.shields.io/badge/shell--brightgreen?style=for-the-square&logo=apple)](https://github.com/Jourloy)
 ### Hi there 👋
 I am programmer from Russia and work mostly on bots for social networks
 
