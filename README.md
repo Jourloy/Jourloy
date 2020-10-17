@@ -11,7 +11,7 @@ I am programmer from Russia and work mostly on bots for social networks
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jourloy&theme=nord" />
 </a>
 <a href="https://github.com/jourloy">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=jourloy&show_icons=true&count_private=true&theme=nord&line_height=40" alt="Jourloy's github stats"/>
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=jourloy&show_icons=true&count_private=true&theme=nord&line_height=37" alt="Jourloy's github stats"/>
 </a>
 
 ### My favorite project
