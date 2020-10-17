@@ -13,8 +13,3 @@ I am programmer from Russia and work mostly on bots for social networks
 <a href="https://github.com/jourloy">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=jourloy&show_icons=true&count_private=true&theme=nord&line_height=34" alt="Jourloy's github stats"/>
 </a>
-
-### My favorite project
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=jourloy&repo=viking&theme=nord)](https://github.com/jourloy/viking)
-
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=jourloy&repo=cmd-commands&theme=nord)](https://github.com/jourloy/cmd-commands)
