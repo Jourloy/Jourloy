@@ -16,3 +16,5 @@ I am programmer from Russia and work mostly on bots for social networks
 
 ### My favorite project
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=jourloy&repo=viking&theme=nord)](https://github.com/jourloy/viking)
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=jourloy&repo=cmd-commands&theme=nord)](https://github.com/jourloy/cmd-commands)
