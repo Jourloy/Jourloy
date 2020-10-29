@@ -4,7 +4,7 @@ I am programmer from Russia and work mostly on bots for social networks
 
 - 🦾 I'm currently working on **my English skill**
 - 📖 I'm currently learning **Information Security** in colledge
-- 🖥 I'm currently programming **Bot for Screeps game**
+- 🖥 I'm currently programming **Bot for Twitch, Discord and Telegram**
 - ❤️ I love **nord theme**
 - 📧 You can write me in [![TG](https://img.shields.io/badge/Telegram-%40jourloy-blue?style=flat&logo=telegram)](github.com/Jourloy) or via [![mail](https://img.shields.io/badge/Mail-jourloy%40icloud.com-blue?style=flat&logo=icloud)](github.com/Jourloy)
 <a href="https://github.com/jourloy">
