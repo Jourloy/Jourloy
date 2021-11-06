@@ -2,6 +2,10 @@
 <p align="center"> <img src="https://github.com/Jourloy/Jourloy/blob/main/iam.gif" alt="codergif" /> </p>
 I am programmer from Russia and work mostly on bots for social networks
 
+My hobbie is cyber security
+
+![HackTheBox](https://www.hackthebox.com/badge/image/221241)
+
 - 🦾 I'm currently working on **my English skill**
 - 📖 I'm currently **GOLANG**
 - 🖥 I'm currently programming **Bot for Twitch, Discord and Telegram**
