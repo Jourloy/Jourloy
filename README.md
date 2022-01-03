@@ -1,52 +1,41 @@
 <h1 align="center"> Hi there, I'm Igor 👋</h1>
 
-I'm programmer from Russia, St. Petersburg. Usualy I programming some bots for social networks (Discord, Twitch and etc.), but can make automatization bot for parse websites or make game routine more fun, for example auto-fishing :)
+I'm backend developer
 
-I like play with my raspberryies, make something intresting and maybe needed. I have a minecraft server and ads blocker at home. Also I don't forget about 3d printing and construct fun and intresting things.
+## Languages
 
-My hobbie is cyber security. In free time I open Hack The Box and try to solve challanges or get root on machines.
+#### Work with
 
-Now I want make my busines and learn Golang.
+[![Typescript](https://img.shields.io/badge/TypeScript-grey?style=flat-square&logo=typescript)]()
+[![Javascript](https://img.shields.io/badge/Javascript-grey?style=flat-square&logo=javascript)]()
+[![Python](https://img.shields.io/badge/Python-grey?style=flat-square&logo=python)]()
 
-<br/> 
+#### Have projects on
 
-<h3 align="center">Languages</h3>
+[![Batch](https://img.shields.io/badge/Batch-grey?style=flat-square&logo=windows&logoColor=blue)]()
+[![Shell](https://img.shields.io/badge/Shell-grey?style=flat-square&logo=linux&logoColor=blue)]()
 
-<p align="center">
-<img src="https://img.shields.io/badge/TypeScript-white?style=for-the-badge&logo=typescript">
-  <img src="https://img.shields.io/badge/JavaScript-white?style=for-the-badge&logo=javascript">
-  <img src="https://img.shields.io/badge/Python-white?style=for-the-badge&logo=python">
-  <img src="https://img.shields.io/badge/Batch-white?style=for-the-badge&logo=windows">
-  <img src="https://img.shields.io/badge/Shell-white?style=for-the-badge&logo=linux">
-</p>
+#### Now learning
 
-<br/> 
+[![Golang](https://img.shields.io/badge/Golang-grey?style=flat-square&logo=go)]()
 
-<h3 align="center">Tools</h3>
-<p align="center">
-<img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" width="60" height="60">
-<img src="https://github.com/devicons/devicon/blob/master/icons/electron/electron-original.svg" width="60" height="60">
-<img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" width="60" height="60">
-<img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" width="60" height="60">
-<img src="https://github.com/devicons/devicon/blob/master/icons/gitlab/gitlab-original.svg" width="60" height="60">
-<img src="https://github.com/devicons/devicon/blob/master/icons/jest/jest-plain.svg" width="60" height="60">
-<img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" width="60" height="60">
-<img src="https://github.com/devicons/devicon/blob/master/icons/nestjs/nestjs-plain.svg" width="60" height="60">
-<img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" width="60" height="60">
-</p>
+#### Want to know
 
-<br/> 
+[![Swift](https://img.shields.io/badge/Swift-grey?style=flat-square&logo=swift)]()
+[![Dart](https://img.shields.io/badge/Dart-grey?style=flat-square&logo=dart)]()
 
-<h3 align="center">IDE</h3>
-<p align="center">
-<img src="https://github.com/devicons/devicon/blob/master/icons/atom/atom-original.svg" width="50" height="50">
-<img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" width="50" height="50">
-</p>
+## Favorite tools
 
-<br/> 
-
-<h3 align="center">BROWSERS</h3>
-<p align="center">
-<img src="https://github.com/devicons/devicon/blob/master/icons/safari/safari-original.svg" width="50" height="50">
-<img src="https://github.com/devicons/devicon/blob/master/icons/chrome/chrome-original.svg" width="50" height="50">
-</p>
+[![Docker](https://img.shields.io/badge/Docker-grey?style=flat-square&logo=docker)]()
+[![Electron](https://img.shields.io/badge/Electron-grey?style=flat-square&logo=electron)]()
+[![Express](https://img.shields.io/badge/Express-grey?style=flat-square&logo=express&logoColor=black)]()
+[![Nestjs](https://img.shields.io/badge/NestJS-grey?style=flat-square&logo=nestjs&logoColor=red)]()
+[![Jest](https://img.shields.io/badge/Jest-grey?style=flat-square&logo=jest&logoColor=red)]()
+[![Postgres](https://img.shields.io/badge/Postgres-grey?style=flat-square&logo=postgresql)]()
+[![MongoDB](https://img.shields.io/badge/MongoDB-grey?style=flat-square&logo=mongodb)]()
+[![Github](https://img.shields.io/badge/Github-grey?style=flat-square&logo=github)]()
+[![Gitlab](https://img.shields.io/badge/Gitlab-grey?style=flat-square&logo=gitlab)]()
+[![Git](https://img.shields.io/badge/Git-grey?style=flat-square&logo=git)]()
+[![VScode](https://img.shields.io/badge/VScode-grey?style=flat-square&logo=visualstudiocode)]()
+[![Notion](https://img.shields.io/badge/Notion-grey?style=flat-square&logo=notion)]()
+[![ClickUP](https://img.shields.io/badge/Clickup-grey?style=flat-square&logo=clickup)]()
