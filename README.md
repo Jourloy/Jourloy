@@ -14,6 +14,8 @@ I'm backend developer
 
 [![Batch](https://img.shields.io/badge/Batch-grey?style=flat-square&logo=windows&logoColor=blue)]()
 [![Shell](https://img.shields.io/badge/Shell-grey?style=flat-square&logo=linux&logoColor=blue)]()
+[![HTML](https://img.shields.io/badge/HTML-grey?style=flat-square&logo=html5)]()
+[![CSS](https://img.shields.io/badge/CSS-grey?style=flat-square&logo=css3)]()
 
 #### Now learning
 
