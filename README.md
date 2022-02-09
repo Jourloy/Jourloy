@@ -1,6 +1,10 @@
 <h1 align="center"> Hi there, I'm Igor 👋</h1>
 
-I'm backend developer
+I'm backend developer. Now I work mostly with Typescript (some backend tasks) and Python (AI).
+
+#### Little achievements
+
+[![cw](https://www.codewars.com/users/Jourloy/badges/small)](https://www.codewars.com/users/Jourloy)
 
 ## Languages
 
