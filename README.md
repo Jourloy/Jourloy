@@ -30,7 +30,7 @@ I'm backend developer. Now I work mostly with Typescript (some backend tasks) an
 [![Swift](https://img.shields.io/badge/Swift-grey?style=flat-square&logo=swift)]()
 [![Dart](https://img.shields.io/badge/Dart-grey?style=flat-square&logo=dart)]()
 
-## Favorite tools
+## Favorite tools 
 
 [![Docker](https://img.shields.io/badge/Docker-grey?style=flat-square&logo=docker)]()
 [![Electron](https://img.shields.io/badge/Electron-grey?style=flat-square&logo=electron)]()
