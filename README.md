@@ -20,10 +20,12 @@ I'm backend developer. Now I work mostly with Typescript (some backend tasks) an
 [![Shell](https://img.shields.io/badge/Shell-grey?style=flat-square&logo=linux&logoColor=blue)]()
 [![HTML](https://img.shields.io/badge/HTML-grey?style=flat-square&logo=html5)]()
 [![CSS](https://img.shields.io/badge/CSS-grey?style=flat-square&logo=css3)]()
+[![Golang](https://img.shields.io/badge/Golang-grey?style=flat-square&logo=go)]()
 
 #### Now learning
 
-[![Golang](https://img.shields.io/badge/Golang-grey?style=flat-square&logo=go)]()
+[![React](https://img.shields.io/badge/React-grey?style=flat-square&logo=react)]()
+[![React](https://img.shields.io/badge/InfoSec-grey?style=flat-square&logo=PCGamingWiki)]()
 
 #### Want to know
 
@@ -45,3 +47,5 @@ I'm backend developer. Now I work mostly with Typescript (some backend tasks) an
 [![VScode](https://img.shields.io/badge/VScode-grey?style=flat-square&logo=visualstudiocode)]()
 [![Notion](https://img.shields.io/badge/Notion-grey?style=flat-square&logo=notion)]()
 [![ClickUP](https://img.shields.io/badge/Clickup-grey?style=flat-square&logo=clickup)]()
+[![React](https://img.shields.io/badge/React-grey?style=flat-square&logo=react)]()
+[![Gatsby](https://img.shields.io/badge/Gatsby-grey?style=flat-square&logo=gatsby)]()
