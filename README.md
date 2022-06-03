@@ -2,6 +2,8 @@
 
 I'm backend developer. Now I work mostly with Typescript (some backend tasks) and Python (AI).
 
+Also, I like info security. Arch Linux, nmap, burpsuite, hashcat and many other tools. Maybe someday I will can practice this not on hacktebox, but and in real life.
+
 #### Little achievements
 
 [![cw](https://www.codewars.com/users/Jourloy/badges/small)](https://www.codewars.com/users/Jourloy)
