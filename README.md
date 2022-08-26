@@ -23,31 +23,10 @@ Also, I like info security. Arch Linux, nmap, burpsuite, hashcat and many other 
 [![HTML](https://img.shields.io/badge/HTML-grey?style=flat-square&logo=html5)]()
 [![CSS](https://img.shields.io/badge/CSS-grey?style=flat-square&logo=css3)]()
 [![Golang](https://img.shields.io/badge/Golang-grey?style=flat-square&logo=go)]()
-
-#### Now learning
-
 [![React](https://img.shields.io/badge/React-grey?style=flat-square&logo=react)]()
-[![React](https://img.shields.io/badge/InfoSec-grey?style=flat-square&logo=PCGamingWiki)]()
 
 #### Want to know
 
 [![Swift](https://img.shields.io/badge/Swift-grey?style=flat-square&logo=swift)]()
 [![Dart](https://img.shields.io/badge/Dart-grey?style=flat-square&logo=dart)]()
-
-## Favorite tools 
-
-[![Docker](https://img.shields.io/badge/Docker-grey?style=flat-square&logo=docker)]()
-[![Electron](https://img.shields.io/badge/Electron-grey?style=flat-square&logo=electron)]()
-[![Express](https://img.shields.io/badge/Express-grey?style=flat-square&logo=express&logoColor=black)]()
-[![Nestjs](https://img.shields.io/badge/NestJS-grey?style=flat-square&logo=nestjs&logoColor=red)]()
-[![Jest](https://img.shields.io/badge/Jest-grey?style=flat-square&logo=jest&logoColor=red)]()
-[![Postgres](https://img.shields.io/badge/Postgres-grey?style=flat-square&logo=postgresql)]()
-[![MongoDB](https://img.shields.io/badge/MongoDB-grey?style=flat-square&logo=mongodb)]()
-[![Github](https://img.shields.io/badge/Github-grey?style=flat-square&logo=github)]()
-[![Gitlab](https://img.shields.io/badge/Gitlab-grey?style=flat-square&logo=gitlab)]()
-[![Git](https://img.shields.io/badge/Git-grey?style=flat-square&logo=git)]()
-[![VScode](https://img.shields.io/badge/VScode-grey?style=flat-square&logo=visualstudiocode)]()
-[![Notion](https://img.shields.io/badge/Notion-grey?style=flat-square&logo=notion)]()
-[![ClickUP](https://img.shields.io/badge/Clickup-grey?style=flat-square&logo=clickup)]()
-[![React](https://img.shields.io/badge/React-grey?style=flat-square&logo=react)]()
-[![Gatsby](https://img.shields.io/badge/Gatsby-grey?style=flat-square&logo=gatsby)]()
+[![Infosec](https://img.shields.io/badge/InfoSec-grey?style=flat-square&logo=PCGamingWiki)]()
